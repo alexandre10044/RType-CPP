@@ -1,0 +1,16 @@
+Documentation R-Typr:
+
+Introduction :
+R-Type[a] is a Multiplayeur horizontal-scrolling shooter arcade game developed and released by Irem in 1987. The player controls a star ship, the R-9 "Arrowhead", in its efforts to destroy the Bydo, a powerful alien race bent on wiping out all of mankind. The R-9 can acquire a glowing orblike device called a "Force", protecting it from enemy fire and providing additional firepower. The arcade version was distributed by Nintendo in North America; it is the last arcade title Nintendo distributed.
+
+Gameplay :
+The game is composed of several sequential levels, with a boss enemy at the end of each. The player controls a small spacecraft and must navigate terrain and fight enemies using the various ship weapons. The player's spacecraft has, by default, a weak but rapid-firing main gun; and a more powerful gun called a wave cannon, which requires the player to hold their fire to build up power for the cannon.
+Binds:
+
+Hup   Down Right  Left    Fire  
+ 
+
+Tips :
+- wait until your all energy is reload to shoot this make you deal more damage.
+- dont stay in static position for dodge enemys spells.
+
