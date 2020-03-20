@@ -1,7 +1,4 @@
-R_type Team                                                     Z.Nelson,
-                                                                F.Alexandre,
-                                                                K.youssef,
-                                                                C.thomas
+R_type Team                                                     
 Request for Comments: 0                                    Epitech
 Obsoletes:                                                 December 2019
 Category: Information
@@ -559,14 +556,3 @@ Table of Contents
 
 Author's Address
 
-   Nelson ZANKLAN
-   Epitech
-   
-   thomas1 chezaud
-   Epitech
-
-   alexandre frydman
-   Epitech
-
-   youssef kerbel
-   Epitech
