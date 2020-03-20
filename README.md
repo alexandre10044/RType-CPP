@@ -3,6 +3,8 @@
 Epitech project
 Rtype in CPP
 
+See reedme.pdf.
+
 Subject:
 
 For this project of theAdvanced C++knowledge unit,R-Typewill introduce you to networked video gamedevelopment.You will have to implement a multi-threaded server and a graphical client, using a re-usable game engineof your own design. Your game must also be fun to play!
