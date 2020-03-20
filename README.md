@@ -3,6 +3,7 @@
 Epitech project
 Rtype in CPP
 
+Space invader game.
 See reedme.pdf.
 
 Subject:
